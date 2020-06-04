@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Bingo test","verifyThatGamesExtractedHasDefaultGameFrequencyIs30000","SUCCESS","2020-06-04T15:59:59.516+01:00[Europe/London]","0.0","4.04"
+"Bingo test","This test will verify that the startTime for all Games is always future timestamp","SUCCESS","2020-06-04T16:00:03.590+01:00[Europe/London]","0.0","0.29"
